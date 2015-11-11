@@ -71,5 +71,8 @@ ggplot(heatmap, aes(x = X2, y = X1, fill = value)) +
   coord_equal()
 ```
 
+## Hex values
+
+If you just like the hex values of the palettes, they are available [at this gist](https://gist.github.com/dill/fb75131e618c52564fc9) (one per line).
 
 With apologies, DLM
